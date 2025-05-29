@@ -10,4 +10,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="50px"/><p>Para o estilo visual e layout.</p>
 </div> 
  <p><b>@media queries</b>: Fundamental para adaptar a interface a diferentes tamanhos de tela (desktops, tablets e smartphones), garantindo uma experiência de usuário otimizada em qualquer dispositivo.</p>
- <br>
+ 
+ <h4>Imagem do projeto finalizado: :computer: :iphone: </h4>
+ <div>
+ <img src="https://github.com/DanieleOliveira14/Easy-Shopping/blob/master/assets/mobiledesktop.jpg?raw=true" alt="mockup-shop" width="450px" />
+ </div>
